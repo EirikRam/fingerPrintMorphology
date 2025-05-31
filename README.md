@@ -39,7 +39,7 @@ Image preprocessing techniques such as these are widely used across many industr
 
 | Glass Fingerprint | Glass Cup Fingerprint | Sunglasses Fingerprint |
 |-------------------|-----------------------|------------------------|
-| ![](./fingerprint-glass.jpg) | ![](./fingerprint-glasscup.jpg) | ![](./fingerprint-sunglasses.jpg) |
+| ![](./Fingerprint-glass.jpg) | ![](./fingerprint-glasscup.jpg) | ![](./fingerprint-sunglasses.jpg) |
 
 ### Processed Output Images (Morphological Analysis)
 
